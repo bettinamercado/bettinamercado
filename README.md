@@ -1,11 +1,15 @@
 ### Hi there 👋
 
+I'm a software engineer at @1exporttech
+
+😄 Pronouns: she/her
+🌱 I’m currently learning: VueJS, PHP (Laravel framework), JavaScript
 ⚡ Fun fact: im cute
 
 [![Bettina's GitHub stats](https://github-readme-stats.vercel.app/api?username=bettinamercado&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
-**bettinamercado/BettinaMercado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**bettinamercado/bettinamercado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
