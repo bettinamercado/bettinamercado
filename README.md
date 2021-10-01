@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a software engineer at @1exporttech
+I'm a software engineer at 1Export.
 
 😄 Pronouns: she/her
 🌱 I’m currently learning: VueJS, PHP (Laravel framework), JavaScript
