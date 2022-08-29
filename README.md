@@ -8,9 +8,9 @@ I'm a software engineer at 1Export.
 
 [![Bettina's GitHub stats](https://github-readme-stats.vercel.app/api?username=bettinamercado&count_private=true&show_icons=true)](https://github.com/bettinamercado/github-readme-stats)
 
-<h2>🔥 Streak</h2>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bettinamercado&theme=radical)](https://git.io/streak-stats)<br/>
-<center>Get streak stats for your profile at <a href="git.io/streak-stats">git.io/streak-stats</a></center>
+<!--<h2>🔥 Streak</h2>
+(http://github-readme-streak-stats.herokuapp.com/?user=bettinamercado&theme=radical)](https://git.io/streak-stats)<br/>
+<center>Get streak stats for your profile at <a href="git.io/streak-stats">git.io/streak-stats</a></center>-->
 
 <!--
 **bettinamercado/bettinamercado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
