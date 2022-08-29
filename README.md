@@ -2,8 +2,9 @@
 
 I'm a software engineer at 1Export.
 
-😄 Pronouns: she/her<br/>
-🌱 I’m currently learning: VueJS, PHP (Laravel framework), JavaScript<br/>
+😄 <b>Pronouns:</b> she/her<br/>
+🌱 <b>I’m currently learning:</b> VueJS, PHP (Laravel framework), JavaScript, CSS<br/>
+🔭 <b>I’m currently working on:</b> a simple meal planner to help ease the process of planning weekly meals within the family using Google App Script.
 
 [![Bettina's GitHub stats](https://github-readme-stats.vercel.app/api?username=bettinamercado&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
