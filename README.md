@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-I'm a software engineer at 1Export.
+I'm a software engineer and Frontend Lead at 1Export.
 
 😄 <b>Pronouns:</b> she/her<br/>
-🌱 <b>I’m currently learning:</b> VueJS, PHP (Laravel framework), JavaScript, CSS<br/>
-🔭 <b>I’m currently working on:</b> a simple meal planner to help ease the process of planning weekly meals within the family using Google App Script.
+🌱 <b>I’m currently learning:</b> VueJS, PHP (Laravel framework), JavaScript, CSS, Google Analytics and Tag Manager, User Experience Frameworks and Practices<br/>
+🔭 <b>I’m currently working on:</b> a budget tracking sheet with a metricized dashboard for analysis. Aim is to use Google AppScript and Apple Shortcuts for ease in updating the tracking sheet.<br/>
+⚡ <b>Fun fact:</b> I love collecting fun facts and learning about interesting tidbits about animals.
 
 [![Bettina's GitHub stats](https://github-readme-stats.vercel.app/api?username=bettinamercado&count_private=true&show_icons=true)](https://github.com/bettinamercado/github-readme-stats)
 
